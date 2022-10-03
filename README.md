@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abhikk
-- 🌱 I’m currently learning React
 - 📫 How to reach me abhikk30@hotmail.com
 
 <!---
